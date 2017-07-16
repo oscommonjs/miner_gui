@@ -62,10 +62,15 @@ ETH - 不向使用者收取額外費用。
 **cudart64_80.dll** 是必須的。安裝完顯示卡驅動程式後應該會出現在電腦中，您也可以從以下連結下載 https://drive.google.com/drive/folders/0B4bhHjcQpa3tVTlTaGEtSW1hV1k
 
      
+## miner_gui 1.2.4
+Improve ETH mining stability.   
+加強ETH挖礦的穩定度
+
+     
 ## miner_gui 1.2.3
 New feature: display network latency.   
 Improve ZEC mining stability.   
-新功能： 雲端監控   
+新功能： 顯示網路延遲   
 加強ZEC挖礦的穩定度
 
      
