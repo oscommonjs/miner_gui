@@ -1,4 +1,4 @@
-﻿# Miner GUI (latest version 1.2.3)
+﻿# Miner GUI (latest version 1.2.4)
 This is a simple GUI tool for ZEC / ETH mining. Miner GUI is based on existing miners and the main purpose of this program is to popularize GPU mining to those who are interested in GPU mining but unskilled in computer programs and operations.
 This program supports multiple languages and it is easier to use for those who are unskilled in English. Furthermore, we add some features to improve user experiences in monitoring and maintenance.
 To monitor in cloud, please kindly visit our website: https://www.minergui.com/
